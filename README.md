@@ -1,6 +1,6 @@
 # Build Qt GUI application on Raspberry Pi3 board (Pi board)
 
-Case Study by Krishna Chaithanya
+Case Study by [Krishna Chaithanya](https://github.com/chaithubk)
 
 This case study involves two segments
 
